@@ -31,10 +31,10 @@ For WN18RR and FB15k237 datasets, we use files from [KG-BERT](https://github.com
 ## 🛸 Data layout <a href="#top">[Back to Top]</a> <a name="Data-layout-"></a>
 Place raw datasets under `data/` following these defaults:
 ```bash
- **WN18RR**:
+** WN18RR**:
    `data/WN18RR/train.txt`, `data/WN18RR/valid.txt`, `data/WN18RR/test.txt`
    `data/WN18RR/wordnet-mlj12-definitions.txt`
- **FB15k-237**:
+** FB15k-237**:
    `data/FB15k-237/train.txt`, `data/FB15k-237/valid.txt`, `data/FB15k-237/test.txt`
    `data/FB15k-237/FB15k_mid2name.txt`, `data/FB15k-237/FB15k_mid2description.txt`
 ```
