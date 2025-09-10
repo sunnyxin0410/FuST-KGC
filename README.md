@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## FuST-KGC: Fusing Sub-graph Structures and Textual Semantics for Knowledge Graph Completion
 
 
@@ -103,4 +104,8 @@ The evaluation script will produce detailed per-sample predictions and metrics n
 - `eval_test_backward_model_best.mdl.json`
 - `metrics_test_model_best.mdl.json`
 
+=======
+# FuST-KGC
+我们稍后会公开所有代码和数据集
+>>>>>>> 26a284763d69da296d3bb69a7f5aae643f630b90
 
